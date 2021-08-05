@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.c84a1116.chunk.js",
-    "main.js.map": "/static/js/main.c84a1116.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b0caec3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b0caec3.js.map",
-    "static/js/2.eb860c68.chunk.js": "/static/js/2.eb860c68.chunk.js",
-    "static/js/2.eb860c68.chunk.js.map": "/static/js/2.eb860c68.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.eb860c68.chunk.js.LICENSE.txt": "/static/js/2.eb860c68.chunk.js.LICENSE.txt",
-    "static/media/featured.66d68644.jpg": "/static/media/featured.66d68644.jpg",
-    "static/media/pizza-3.8e3e9966.jpg": "/static/media/pizza-3.8e3e9966.jpg",
-    "static/media/product-1.23272eb4.jpg": "/static/media/product-1.23272eb4.jpg",
-    "static/media/product-2.533367b0.jpg": "/static/media/product-2.533367b0.jpg",
-    "static/media/product-3.8fd8cf2d.jpg": "/static/media/product-3.8fd8cf2d.jpg",
-    "static/media/sweet-1.d5cf1ad2.jpg": "/static/media/sweet-1.d5cf1ad2.jpg",
-    "static/media/sweet-2.badeecbe.jpg": "/static/media/sweet-2.badeecbe.jpg",
-    "static/media/sweet-3.c495c742.jpg": "/static/media/sweet-3.c495c742.jpg"
+    "main.js": "/Vini-s-Pizza/static/js/main.c84a1116.chunk.js",
+    "main.js.map": "/Vini-s-Pizza/static/js/main.c84a1116.chunk.js.map",
+    "runtime-main.js": "/Vini-s-Pizza/static/js/runtime-main.f81f1bf3.js",
+    "runtime-main.js.map": "/Vini-s-Pizza/static/js/runtime-main.f81f1bf3.js.map",
+    "static/js/2.d7460a4b.chunk.js": "/Vini-s-Pizza/static/js/2.d7460a4b.chunk.js",
+    "static/js/2.d7460a4b.chunk.js.map": "/Vini-s-Pizza/static/js/2.d7460a4b.chunk.js.map",
+    "index.html": "/Vini-s-Pizza/index.html",
+    "static/js/2.d7460a4b.chunk.js.LICENSE.txt": "/Vini-s-Pizza/static/js/2.d7460a4b.chunk.js.LICENSE.txt",
+    "static/media/featured.66d68644.jpg": "/Vini-s-Pizza/static/media/featured.66d68644.jpg",
+    "static/media/pizza-3.8e3e9966.jpg": "/Vini-s-Pizza/static/media/pizza-3.8e3e9966.jpg",
+    "static/media/product-1.23272eb4.jpg": "/Vini-s-Pizza/static/media/product-1.23272eb4.jpg",
+    "static/media/product-2.533367b0.jpg": "/Vini-s-Pizza/static/media/product-2.533367b0.jpg",
+    "static/media/product-3.8fd8cf2d.jpg": "/Vini-s-Pizza/static/media/product-3.8fd8cf2d.jpg",
+    "static/media/sweet-1.d5cf1ad2.jpg": "/Vini-s-Pizza/static/media/sweet-1.d5cf1ad2.jpg",
+    "static/media/sweet-2.badeecbe.jpg": "/Vini-s-Pizza/static/media/sweet-2.badeecbe.jpg",
+    "static/media/sweet-3.c495c742.jpg": "/Vini-s-Pizza/static/media/sweet-3.c495c742.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b0caec3.js",
-    "static/js/2.eb860c68.chunk.js",
+    "static/js/runtime-main.f81f1bf3.js",
+    "static/js/2.d7460a4b.chunk.js",
     "static/js/main.c84a1116.chunk.js"
   ]
 }
